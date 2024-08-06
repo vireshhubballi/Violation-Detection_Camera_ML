@@ -18,6 +18,7 @@ Ensure that you have Python 3.7+ installed on your system along with pip (Python
 
 Clone the Repository
 To get started, clone this repository to your local machine:
+
 git clone https://github.com/yourusername/violation-detection-system.git
 cd violation-detection-system
 
