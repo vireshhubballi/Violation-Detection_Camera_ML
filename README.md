@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Violation_Detection_Camera_and_ML
-=======
+
 
 # Violation Detection System using Camera and Machine Learning
 
@@ -155,4 +155,4 @@ For any questions or inquiries, feel free to reach out:
 • LinkedIn: https://www.linkedin.com/in/viresh-hubballi
 
 • GitHub: https://github.com/vireshhubballi
->>>>>>> bfd2a6a (Initial commit after cleanup)
+
